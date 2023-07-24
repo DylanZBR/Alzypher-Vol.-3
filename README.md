@@ -1,2 +1,3 @@
 # Alzypher-Vol.-3
-Lice
+uvrr general license 2.0.0.1
+#UVRR
